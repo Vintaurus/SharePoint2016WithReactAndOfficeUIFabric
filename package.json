@@ -1,5 +1,5 @@
 {
-  "name": "Sps2016ReactOfficeUiFabric",
+  "name": "sps2016reactofficeuifabric",
   "version": "0.0.1",
   "description": "Development with React, Office UI Fabric and TypeScript for SharePoint 2016",
   "main": "webpack.config.js",
